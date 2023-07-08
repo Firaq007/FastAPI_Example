@@ -1,0 +1,4 @@
+fastapi==0.68.1
+uvicorn==0.15.0
+aiofiles==0.7.0
+opencv-python-headless==4.5.3.56
